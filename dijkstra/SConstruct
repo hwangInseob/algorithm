@@ -1,0 +1,1 @@
+Program('dijkstra', Glob('*.cpp'))
